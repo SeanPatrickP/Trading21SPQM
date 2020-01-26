@@ -1,0 +1,8 @@
+Name: apple
+Price: 34.0
+Amount: 12
+Protection?: 60.0
+....
+Next stock follows
+....
+

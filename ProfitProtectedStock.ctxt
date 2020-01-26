@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ProfitProtectedStock
+comment1.params=name\ price\ amount\ sellFlag
+comment1.target=ProfitProtectedStock(java.lang.String,\ double,\ int,\ double)
+comment2.params=toCheck
+comment2.target=int\ checker(ProfitProtectedStock)
+comment3.params=sellPrice\ numberSold
+comment3.target=double\ Profit(double,\ int)
+numComments=4

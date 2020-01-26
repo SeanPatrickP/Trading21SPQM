@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Profit
+comment1.params=name\ price\ amount
+comment1.target=Profit(java.lang.String,\ double,\ int)
+comment2.params=sellPrice\ numberSold
+comment2.target=double\ Profit(double,\ int)
+numComments=3
